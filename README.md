@@ -1,4 +1,4 @@
-# Flyspray Bug Tracking System
+# Fuckbugs Bug Tracking System (Flyspray fork)
 
 Flyspray is an uncomplicated, web-based bug and task tracking system.
 
